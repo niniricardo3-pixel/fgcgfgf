@@ -1,0 +1,6 @@
+apks/
+patched/
+*.apk
+__pycache__/
+launcher-app/.gradle/
+launcher-app/**/build/
